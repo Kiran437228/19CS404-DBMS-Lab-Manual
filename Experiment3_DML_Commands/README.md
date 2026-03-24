@@ -1,5 +1,5 @@
 
-## NAME : KIEAN KUMAR CS
+## NAME : KIRAN KUMAR CS
 ## REG NO : 212224240076
 # Experiment 3: DML Commands
 
